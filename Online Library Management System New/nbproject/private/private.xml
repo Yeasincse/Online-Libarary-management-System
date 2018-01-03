@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Xampp/htdocs/OnlineLibrary/app/Http/Controllers/AdminDashBoardController.php</file>
+            <file>file:/D:/Xampp/htdocs/OnlineLibrary/resources/views/admin/add_issued_book.blade.php</file>
+            <file>file:/D:/Xampp/htdocs/OnlineLibrary/app/Http/Controllers/IssuedBookController.php</file>
+            <file>file:/D:/Xampp/htdocs/OnlineLibrary/app/Http/Controllers/UserSignUpController.php</file>
+            <file>file:/D:/Xampp/htdocs/OnlineLibrary/resources/views/signup.blade.php</file>
+            <file>file:/D:/Xampp/htdocs/OnlineLibrary/app/Http/Controllers/AdminLogInController.php</file>
+            <file>file:/D:/Xampp/htdocs/OnlineLibrary/resources/views/admin/change_password.blade.php</file>
+            <file>file:/D:/Xampp/htdocs/OnlineLibrary/routes/web.php</file>
+            <file>file:/D:/Xampp/htdocs/OnlineLibrary/app/Http/Controllers/StudentManageController.php</file>
+            <file>file:/D:/Xampp/htdocs/OnlineLibrary/resources/views/admin/user_register_info.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
